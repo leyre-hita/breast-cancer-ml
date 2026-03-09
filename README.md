@@ -37,7 +37,7 @@ breast-cancer-project
 │   └── train
 │
 ├── models
-│   └── cancer_model.h5
+│   └── cancer_model.keras
 │
 ├── requirements.txt
 └── README.md
